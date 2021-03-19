@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/meow-friends/static/css/main.cf4c51a4.chunk.css",
+    "main.js": "/meow-friends/static/js/main.2f70f962.chunk.js",
+    "main.js.map": "/meow-friends/static/js/main.2f70f962.chunk.js.map",
+    "runtime-main.js": "/meow-friends/static/js/runtime-main.53c473a1.js",
+    "runtime-main.js.map": "/meow-friends/static/js/runtime-main.53c473a1.js.map",
+    "static/css/2.31461e4f.chunk.css": "/meow-friends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.1f19c517.chunk.js": "/meow-friends/static/js/2.1f19c517.chunk.js",
+    "static/js/2.1f19c517.chunk.js.map": "/meow-friends/static/js/2.1f19c517.chunk.js.map",
+    "static/js/3.a0783b41.chunk.js": "/meow-friends/static/js/3.a0783b41.chunk.js",
+    "static/js/3.a0783b41.chunk.js.map": "/meow-friends/static/js/3.a0783b41.chunk.js.map",
+    "index.html": "/meow-friends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/meow-friends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.cf4c51a4.chunk.css.map": "/meow-friends/static/css/main.cf4c51a4.chunk.css.map",
+    "static/js/2.1f19c517.chunk.js.LICENSE.txt": "/meow-friends/static/js/2.1f19c517.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/meow-friends/static/media/WinterCat-vmymD.5669778a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53c473a1.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.1f19c517.chunk.js",
+    "static/css/main.cf4c51a4.chunk.css",
+    "static/js/main.2f70f962.chunk.js"
+  ]
+}
